@@ -9,4 +9,4 @@ Now I'm a software engineer, and my interest is mainly about AI and NLP.
 
 Read More:
 
-- [publications](./publications.md)
+- [publications](./pub.html)
