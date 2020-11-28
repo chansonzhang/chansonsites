@@ -21,6 +21,7 @@ date: 2020-09-30 00:07:25
 | [一种基于响应时间序列数据分析的虚拟机同驻检测方法](http://epub.cnipa.gov.cn/tdcdesc.action?strWhere=CN106656678B) | 2017.01.23 | 桂小林;梁鑫;安健;代兆胜;任德旺;**张晨** |
 | [一种在IaaS环境中面向负载均衡的应用感知虚拟机调度方法](http://epub.cnipa.gov.cn/tdcdesc.action?strWhere=CN109343931A) | 2018.09.12 | 桂小林;**张晨**;徐盼;梁鑫 |
 | [基于网络的分布式设备控制方法、装置、设备及介质](http://epub.cnipa.gov.cn/tdcdesc.action?strWhere=CN111878977A) | 2020.07.31 | **张晨** |
+| [任务调度方法、装置、电子设备及存储介质](http://epub.cnipa.gov.cn/tdcdesc.action?strWhere=CN111984392A) | 2020.10.09 | **张晨** |
 
 
 
