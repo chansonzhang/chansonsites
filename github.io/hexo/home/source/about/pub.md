@@ -24,6 +24,7 @@ date: 2020-09-30 00:07:25
 | [部署人工智能服务的方法、装置、设备及计算机介质](http://epub.cnipa.gov.cn/tdcdesc.action?strWhere=CN112085217A) | 2020.09.08 | **张晨** |
 | [依赖包信息的获取方法、装置、设备及计算机介质](http://epub.cnipa.gov.cn/tdcdesc.action?strWhere=CN112084391A) | 2020.09.08 | **张晨** |
 | [任务调度方法、装置、电子设备及存储介质](http://epub.cnipa.gov.cn/tdcdesc.action?strWhere=CN111984392A) | 2020.10.09 | **张晨** |
+| [文件上传方法、装置、电子设备及存储介质](http://epub.cnipa.gov.cn/tdcdesc.action?strWhere=CN112347042A) | 2020.11.05 | **张晨** |
 
 
 
